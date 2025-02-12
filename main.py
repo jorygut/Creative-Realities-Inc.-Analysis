@@ -19,7 +19,7 @@ import yfinance as yf
 
 # Extract article info from news API
 def fetch_articles():
-    API_KEY = "7c41beb12c4e426488da09b8200c61d5"
+    API_KEY = "INPUT HERE"
     BASE_URL = "https://newsapi.org/v2/everything"
 
     params = {
